@@ -8,7 +8,7 @@ Projeto desenvolvido durante o curso Explorer da Rocketseat, no desafio do Avan√
 
 
 
-[Clique aqui para acessar](https://henriquetho.github.io/projeto04-responsiveness/)
+[Clique aqui para acessar](https://henriquetho.github.io/projeto04-responsividade/)
 
 ## Tecnologias
 
